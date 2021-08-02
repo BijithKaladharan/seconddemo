@@ -1,0 +1,7 @@
+total 8
+-rw------- 1 superuser superuser   20 Jul 26 15:32 bio.txt
+-rw-rw-r-- 1 superuser superuser    0 Jul 26 12:06 c.txt
+-rw-rw-r-- 1 superuser superuser    0 Jul 26 12:06 d.txt
+-rw-rw-r-- 1 superuser superuser    0 Jul 26 15:49 memory
+-rwxrw-r-- 1 superuser superuser 1509 Jul 26 15:35 memory.txt
+-rw-rw-r-- 1 superuser superuser    0 Jul 26 15:31 saw
